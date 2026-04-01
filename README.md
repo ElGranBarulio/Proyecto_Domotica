@@ -1,3 +1,10 @@
+EL RESULTADO_FINAL.ZIP VA EN LA ARQUITECTURA EN LA CAPA DE BRONCE PERO NO DEJABA SUBIRLO TODO JUNTO
+
+
+
+
+
+
 IA de Detección de Derroche Energético
 
 Este proyecto utiliza técnicas de Machine Learning y Deep Learning para predecir situaciones de derroche de calefacción en edificios educativos. El sistema analiza datos de sensores de temperatura y contacto para identificar cuándo se está perdiendo energía de forma ineficiente.
